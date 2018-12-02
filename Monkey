@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:pink;">
+<head>
+<title> Albert Einstein </title>
+</head>
+<body>
+<!-- Albert Einstein is amazing-->
+<h1>Albert Einstein</h1>
+<p> Albert Einstein is a German physiscts. He has many spectacular theroies. His most famous theory is the special theory of relativity. The development of his theory took a streuous amount of time. He soon relized he can't only have a special theory, he needed a general theory of relativity. all in all, both of his theories are astonishing. </p>
+<h2>His work</h2>
+<p2>Albert Einstein probably couldn't have developed and polished his theories without the help of fellow geniuses. The theories are well developed and thought out. He later recived a nobel prize in physics. Shockingly, it wasn't for the general and special theory of relativity. It was actually for the photoelectric theory. This theory expalined light particles. Einstein is a commendable person.He even had an element named after them. </p2>
+<p3> Einsteinium is an element named after Albert Einstein. It's a radioactive element first found in the first thermonuclear explosion. The element has a half life of 20.5 days. The scientist that researched and finalized the element found the element within a month. They only released this information three years later.  </p3>
+<!-- Don't know how to adjust the pictures-->
+<a href= "http://www.rsc.org/periodic-table/element/99/einsteinium">Element 99</a>
+<img src><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/220px-Albert_Einstein_Head.jpg" alt="Image result for albert einstein &#39; style="width: 10px height: 10px;>
+<img src><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Citizen-Einstein.jpg/220px-Citizen-Einstein.jpg" alt="Image result for albert einstein nobel prize photo"/>
+<h2> Places he lived </h2>
+<ol>
+  <li>USA</li>
+  <li>Switzerland</li>
+  <li>Germany</li>
+</ol> 
+<h2> His children</h2>
+<ul>
+  <li>Hans Albert Einstein</li>
+  <li>Eduard Einstein</li>
+  <li>Lisearl Einstein</li>
+</ul> 
+<h2> His wife's</h2>
+<ul>
+  <li>Mileva Marić</li>
+  <li>Elsa Einstein</li>
+</ul>
+<h2>His parents</h2>
+<ol>
+  <li>Pauline Einstein</li>
+  <li>Hermann Einstein</li>
+</ol>
+<html>
+   <body style="background-color:pink;">
+  <head>
+  <title>His death</title>
+  </head>
+  <body>
+  <h2>How did he die?</h2>
+  <p1> Albert Einstein died from AAA. AAA stands for Abdominal Aortic Aneurysm. This condition is deadly if it burst.Shortly after he died, his body was examined by Doctor Thomas Harvey. While examining him he stole Albert Einstein's brain. <p1>
+  <h2>Where'd the brain go?</h2>
+  <p2> When he went home he took pictures of his brain in different angles. He then proceeded to cut his brain into thousands of peices. He sent chunks of his brain to scientist all around the world.The media and his family were furious. Albert Einstein wanted to be cremated because people would experiment with his deceased body. </p2>
+  <img src> <img
+  src="https://static.comicvine.com/uploads/square_medium/11/114183/5776775-dr.-harvey-with-einsteins-brain.jpg" alt="Image result for thomas harvey"/> <!--alt="Image result for albert einstein &#39; style="width: 10px height: 10px;-->
+  <img src> <img
+  src="https://upload.wikimedia.org/wikipedia/en/5/50/Einstein_brain_-_T.Harvey.png" alt="Image result for albert einstein&#39;s brain"/>"
+<!-- Einsteinium is element 99-->
+</body>                                  
+</html>
